@@ -4,7 +4,7 @@ let path 			= require("path");
 let fs 				= require("fs");
 let _ 				= require("lodash");
 let chalk			= require("chalk");
-let logger 		    = require("./core/logger");
+let logger 		    = require("../core/logger");
 
 
 module.exports = {
