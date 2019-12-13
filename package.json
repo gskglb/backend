@@ -42,7 +42,7 @@
     "nodemailer-html-to-text": "^3.0.0",
     "nodemailer-mailgun-transport": "^1.4.0",
     "nodemailer-sendgrid-transport": "^0.2.0",
-    "npm": "^6.3.0",
+    "npm": "^6.13.4",
     "passport": "^0.4.0",
     "passport-facebook": "^2.1.1",
     "passport-github": "^1.1.0",
